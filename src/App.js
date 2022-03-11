@@ -1,18 +1,9 @@
 import { useState, useEffect} from 'react'
-import { isCompositeComponent } from 'react-dom/test-utils';
 import './App.css';
 import MovieCard from './MovieCard';
 import SearchIcon from './search.svg';
 
 const API_URL = 'http://www.omdbapi.com?apikey=e97e12c';
-
-const movie1 = {
-  "Title": "Spiderman",
-  "Year": "2010",
-  "imdbID": "tt1785572",
-  "Type": "movie",
-  "Poster": "N/A"
-}
 
 const App = () => {
   const [movies, setMovies] = useState([]);
