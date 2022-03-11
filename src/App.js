@@ -18,12 +18,12 @@ const App = () => {
   }
 
   useEffect(() => {
-    searchMovies('Avengers');
+    searchMovies('Africa');
   }, []);
 
   return (
     <div className="app">
-      <h1>CiniMax...</h1>
+      <h1>CiniMax Movies</h1>
 
       <div className="search">
         <input 
