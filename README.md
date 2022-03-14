@@ -5,7 +5,7 @@
 ![Cinimax](https://user-images.githubusercontent.com/71140133/153568771-ab652ae7-d6c1-4e68-b818-9be10af0414b.PNG)
 
 
->I created the Cinimax app to practice ReactJS and also working with external APIs. The cinemash app is an online curation of blockbuster movies and TV shows. It allows search for any of their favorite movies or TV shows.
+>I created the Cinimax app to practice ReactJS and also working with external APIs. The cinemash app is an online curation of blockbuster movies and TV shows. It allows users to  search for any of their favorite movies or TV shows.
 
 ## Live Demo
 
