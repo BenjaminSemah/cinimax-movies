@@ -2,8 +2,6 @@
 
 # Cinimax Movies App
 
-![Cinimax](https://github.com/BenjaminSemah/cinimax-movies/blob/main/appTHUMBNAIL-cinimaxMovies.png)
-
 >I created the Cinimax app to practice ReactJS and also working with external APIs. The cinemash app is an online curation of blockbuster movies and TV shows. It allows users to  search for any of their favorite movies or TV shows.
 
 ![Cinimax](https://github.com/BenjaminSemah/cinimax-movies/blob/main/cinimaxmovies.netlify.app_.png)
